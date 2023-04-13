@@ -22,6 +22,8 @@ Here are some of the projects I've worked on:
 ### How to reach me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dami-kadiri/) or at dkadiry@gmail.com. I'm always open to new opportunities and collaborations!
 
+Thanks for stopping by! :wave:
+
 
 <!--
 **dkadiry/dkadiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
