@@ -2,7 +2,7 @@
 ### Welcome to my Github! :smiley:
 
 ### About Me
-I have always been fascinated about what made the machines around us work, now I'm studying how to make machines learn. I'm an MSc student at Western University, London, Ontario, Canada studying Computer Engineering with a specialization in Robotics. My area of research focuses on the application of artificial intelligence and robotics to space exploration technologies specifically rover systems. I also have a Bachelors degree in Computer Engineering from Western University. My studies and interests have given me a solid foundation in Machine/Deep Learning, Software Development and Computer Systems Design. 
+I have always been fascinated about what made the machines around us work, now everyday I work on teaching machines to see. I'm an MSc student at Western University, London, Ontario, Canada studying Computer Engineering with a specialization in Robotics. My area of research focuses on the application of artificial intelligence and robotics to space exploration technologies specifically rover systems. I also have a Bachelors degree in Computer Engineering from Western University. My studies and interests have given me a solid foundation in Machine/Deep Learning, Software Development and Computer Systems Design. 
 
 ### Projects
 Here are some of the projects I've worked on:
