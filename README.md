@@ -8,7 +8,7 @@ I recently completed my Master of Engineering Science at Western University (Lon
 
 Currently, I’m working as a Research Assistant in Computer Vision and Robotics at Western University. My expertise spans Computer Vision, Robotic Perception Systems, Machine/Deep Learning, Software Development, and Computer Systems Design.
 
-Always excited to explore new frontiers in AI, robotics, and space technology!
+Always excited to explore new frontiers in AI, computer vision, robotics, and space technology!
 
 ### Projects
 Here are some of the projects I've worked on:
