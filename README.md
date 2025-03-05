@@ -8,6 +8,8 @@ I have always been fascinated about what made the machines around us work, now e
 Here are some of the projects I've worked on:
 * [Depth Estimation Model with Pose Integration](https://github.com/dkadiry/pose-aware-monocular-depth-estimator): A U-Net-based model incorporating pose data to investigate the influence of pose data on monocular depth estimation for resource-constrained rovers. This project is part of my MSc thesis at Western University titled **"Investigating the Influence of Scale Cues and Pose Integration on AI-Based Monocular Depth Estimation for Resource-Constrained Mobile Robots."**
 
+* [Monocular Pose Estimation Algorithm](https://github.com/dkadiry/final-pose-estimator): A robust algorithm using SIFT, RANSAC, Particle Filters, and YOLO to estimate a rover’s pose from monocular camera images, scaled using environmental cues. This project is part of my MSc thesis at Western University titled **"Investigating the Influence of Scale Cues and Pose Integration on AI-Based Monocular Depth Estimation for Resource-Constrained Mobile Robots."**
+
 * [Deep Learning Based NBA Salary Recommender System](https://github.com/dkadiry/NBA_Player_Impact): Designed a Multi-Layer Perceptron model that can accurately predict team wins given the teams season stats. This model achieved an R2 score of 0.92 beating out the established Pythagorean Win Model (0.91). By plugging the team stats for an imaginary team comprising of 14 average players (created using NBA player stats), and 1 NBA player to be evaluated, we can see how many extra wins our NBA player contributes to a team. 
 
 * [Award Winning Hackathon Project Hotel Booking Predictor](https://github.com/dkadiry/BresciaNortonClassifier): Developed a Machine learning model that can predict if a client will cancel or keep their hotel booking for a Hackathon. Won 3rd place for the model design and presentation.
@@ -19,7 +21,7 @@ Here are some of the projects I've worked on:
 ### Coming Soon
 These projects, currently in private and local repositories, will be made public upon the completion of my master’s degree:
 
-* Monocular Pose Estimation Algorithm: A robust algorithm using SIFT, RANSAC, Particle Filters, and YOLO to estimate a rover’s pose from monocular camera images, scaled using environmental cues.
+* 
 
 * Multi-Threaded Rover Control System: Python-based control software for managing a ClearPath Husky Rover and synchronized stereo cameras on an NVIDIA Jetson TX2.
   
