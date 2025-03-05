@@ -2,9 +2,9 @@
 ### Welcome to my Github! :smiley:
 
 ### About Me
-I've always been fascinated by what makes machines work—from the engineering behind cars and robots to the vast mysteries of space exploration. My passion lies in teaching machines how to "see" through Computer Vision and AI.
+I've always been drawn to physics and engineering, fascinated by how the world works at both fundamental and mechanical levels. From understanding the natural forces that govern our universe to the intricate engineering that make machines work, I’ve been captivated by it all. That curiosity led me to explore robotics, AI, and space technology, and so far I've been fortunate to build a career that combines all these passions. 
 
-I recently completed my Master of Engineering Science at Western University (London, Ontario, Canada), where I conducted research in Robotics/Control with a specialization in Planetary Science and Exploration. My research focused on applying AI and robotics to space exploration technologies, particularly rover systems. Before that, I earned a Bachelor's degree in Computer Engineering, also from Western.
+My work focuses on teaching machines how to "see" through Computer Vision and AI. I recently completed my Master of Engineering Science at Western University (London, Ontario, Canada), where I conducted research in Robotics/Control with a specialization in Planetary Science and Exploration. My research focused on applying AI and robotics to space exploration technologies, particularly rover systems. Before that, I earned a Bachelor's degree in Computer Engineering, also from Western.
 
 Currently, I’m working as a Research Assistant in Computer Vision and Robotics at Western University. My expertise spans Computer Vision, Robotic Perception Systems, Machine/Deep Learning, Software Development, and Computer Systems Design.
 
