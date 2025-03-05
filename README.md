@@ -12,7 +12,7 @@ Always excited to explore new frontiers in AI, computer vision, robotics, and sp
 
 ### Projects
 Here are some of the projects I've worked on:
-* [Depth Estimation Model with Pose Integration](https://github.com/dkadiry/pose-aware-monocular-depth-estimator): A U-Net-based model incorporating pose data to investigate the influence of pose data on monocular depth estimation for resource-constrained rovers. This project is part of my MSc thesis at Western University titled **"Investigating the Influence of Scale Cues and Pose Integration on AI-Based Monocular Depth Estimation for Resource-Constrained Mobile Robots."**
+* [Depth Estimation Model with Pose Integration](https://github.com/dkadiry/pose-aware-monocular-depth-estimator): A U-Net-based model incorporating pose data to investigate the influence of pose cues on monocular depth estimation for resource-constrained rovers. This project is part of my MSc thesis at Western University titled **"Investigating the Influence of Scale Cues and Pose Integration on AI-Based Monocular Depth Estimation for Resource-Constrained Mobile Robots."**
 
 * [Monocular Pose Estimation Algorithm](https://github.com/dkadiry/final-pose-estimator): A robust algorithm using SIFT, RANSAC, Particle Filters, and YOLO to estimate a rover’s pose from monocular camera images, scaled using environmental cues. This project is part of my MSc thesis at Western University titled **"Investigating the Influence of Scale Cues and Pose Integration on AI-Based Monocular Depth Estimation for Resource-Constrained Mobile Robots."**
 
