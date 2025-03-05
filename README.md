@@ -2,7 +2,7 @@
 ### Welcome to my Github! :smiley:
 
 ### About Me
-I have always been fascinated about what made the machines around us work, now everyday I work on teaching machines to see. I'm an MSc student at Western University, London, Ontario, Canada studying Computer Engineering with a specialization in Robotics. My area of research focuses on the application of artificial intelligence and robotics to space exploration technologies specifically rover systems. I also have a Bachelors degree in Computer Engineering from Western University. My studies and interests have given me a solid foundation in Machine/Deep Learning, Software Development and Computer Systems Design. 
+I have always been fascinated about what made the machines around us work, now everyday I work on teaching machines to see. I just concluded my MSc at Western University, London, Ontario, Canada where I conducted research in Robotics/Control with a collaborative specialization in planetary science and exploration. My area of research focuses on the application of artificial intelligence and robotics to space exploration technologies specifically rover systems. I also have a Bachelors degree in Computer Engineering from Western University. My studies and interests have given me a solid foundation in Computer Vision, Robotic Perception Systems, Machine/Deep Learning, Software Development, and Computer Systems Design. 
 
 ### Projects
 Here are some of the projects I've worked on:
@@ -21,8 +21,6 @@ These projects, currently in private and local repositories, will be made public
 
 * Monocular Pose Estimation Algorithm: A robust algorithm using SIFT, RANSAC, Particle Filters, and YOLO to estimate a rover’s pose from monocular camera images, scaled using environmental cues.
 
-
-  
 * Multi-Threaded Rover Control System: Python-based control software for managing a ClearPath Husky Rover and synchronized stereo cameras on an NVIDIA Jetson TX2.
   
 Stay tuned for updates! 🚀
