@@ -16,16 +16,11 @@ Here are some of the projects I've worked on:
 
 * [Movie Review Sentiment Analysis Project](https://github.com/dkadiry/Sentiment_Analysis_Project): Designed a deep learning hybrid model for classifying movie review sentiments. The model uses a pretrained Word2Vec for embedding the words in the review, an LSTM for extracting a new feature representation for the review, and an Ensemble of an SVC, XGBoost and KNN classifiers to perform the final classificiation. The design achieved an accuracy of 86.4%.
 
+* [Multi-Threaded Rover Control System](https://github.com/dkadiry/multi_zed_ros): Python-based control software for managing a ClearPath Husky Rover and synchronized stereo cameras on an NVIDIA Jetson TX2.
 
 
-### Coming Soon
-These projects, currently in private and local repositories, will be made public upon the completion of my master’s degree:
 
-* 
-
-* Multi-Threaded Rover Control System: Python-based control software for managing a ClearPath Husky Rover and synchronized stereo cameras on an NVIDIA Jetson TX2.
-  
-Stay tuned for updates! 🚀
+ay tuned for updates! 🚀
 
 
 ### Skills
