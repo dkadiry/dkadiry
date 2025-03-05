@@ -25,10 +25,6 @@ Here are some of the projects I've worked on:
 * [Multi-Threaded Rover Control System](https://github.com/dkadiry/multi_zed_ros): Python-based control software for managing a ClearPath Husky Rover and synchronized stereo cameras on an NVIDIA Jetson TX2.
 
 
-
-ay tuned for updates! 🚀
-
-
 ### Skills
 * Proficient in Python, C++, Java, Matlab 
 * Experience using NumpY, Pandas, Keras, Tensorflow, Scikit-Learn
