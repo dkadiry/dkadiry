@@ -6,13 +6,15 @@ I have always been fascinated about what made the machines around us work, now e
 
 ### Projects
 Here are some of the projects I've worked on:
+* [Depth Estimation Model with Pose Integration](https://github.com/dkadiry/pose-aware-monocular-depth-estimator): A U-Net-based model incorporating pose data to investigate the influence of pose data on monocular depth estimation for resource-constrained rovers. This project is part of my MSc thesis at Western University titled **"Investigating the Influence of Scale Cues and Pose Integration on Monocular Depth Estimation for Resource-Constrained Mobile Robots."**
+
 * [Deep Learning Based NBA Salary Recommender System](https://github.com/dkadiry/NBA_Player_Impact): Designed a Multi-Layer Perceptron model that can accurately predict team wins given the teams season stats. This model achieved an R2 score of 0.92 beating out the established Pythagorean Win Model (0.91). By plugging the team stats for an imaginary team comprising of 14 average players (created using NBA player stats), and 1 NBA player to be evaluated, we can see how many extra wins our NBA player contributes to a team. 
 
 * [Award Winning Hackathon Project Hotel Booking Predictor](https://github.com/dkadiry/BresciaNortonClassifier): Developed a Machine learning model that can predict if a client will cancel or keep their hotel booking for a Hackathon. Won 3rd place for the model design and presentation.
 
 * [Movie Review Sentiment Analysis Project](https://github.com/dkadiry/Sentiment_Analysis_Project): Designed a deep learning hybrid model for classifying movie review sentiments. The model uses a pretrained Word2Vec for embedding the words in the review, an LSTM for extracting a new feature representation for the review, and an Ensemble of an SVC, XGBoost and KNN classifiers to perform the final classificiation. The design achieved an accuracy of 86.4%.
 
-* [Depth Estimation Model with Pose Integration](https://github.com/dkadiry/pose-aware-monocular-depth-estimator): A U-Net-based model incorporating pose data to investigate the influence of pose data on monocular depth estimation for resource-constrained rovers.
+
 
 ### Coming Soon
 These projects, currently in private and local repositories, will be made public upon the completion of my master’s degree:
